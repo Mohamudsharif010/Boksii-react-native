@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "107193389416",
+    "project_id": "boksii",
+    "storage_bucket": "boksii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107193389416:android:586934c6b83cb16629c6dd",
+        "android_client_info": {
+          "package_name": "au.com.boksii"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107193389416-17so5u0v6ti9pj3qh9e35iie5a115e80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1pb2tRuoGmxX_alrpsQHg7pj2Vd1TeaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107193389416-17so5u0v6ti9pj3qh9e35iie5a115e80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
